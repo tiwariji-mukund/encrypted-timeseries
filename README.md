@@ -11,20 +11,11 @@
 
 #### PreReq :
 
-- Nodejs v10.0+
-- Docker Installation
-
-Run following command to spin up the docker instances
-
-```
-docker-compose up
-```
+- Nodejs v18.17+
 
 ## FrontEnd
 
 Logs realtime messages of all valid data in stream.
-
-Hosted : [FE Client](https://nifty-haibt-05d55e.netlify.app)
 
 Spin up Local Server for React
 
